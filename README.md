@@ -1,9 +1,12 @@
 # Coursera Forums
-This repository provides the anonymized versions of the discussion threads from the forums of 60 Coursera Massive Open Online Courses (MOOCs), for a total of about 100,000 threads. This dataset is associated to the paper:
+This repository contains an implementation of the paper [Language Independent Analysis and Classification of Discussion Threads in Coursera MOOC Forums](http://www2.cs.uh.edu/~gnawali/papers/coursera-iri2014-abstract.html) (by Lorenzo A. Rossi and Omprakash Gnawali), produced during the SRFP 2021 to obtain inference for further research in the interests of Engagemment Patterns, under the supervision of Dr Sudarshan Iyengar and PhD Mentor Ms. Simran Setia, from IIT Ropar.
 
-[Language independent analysis and classification of discussion threads in coursera MOOC forums](http://www2.cs.uh.edu/~gnawali/papers/coursera-iri2014-abstract.html), by Lorenzo A. Rossi and Omprakash Gnawali, IEEE International Conference on Information Reuse and Integration (IRI), August 2014.
+This dataset in this repository by the authors provides the anonymized versions of the discussion threads from the forums of 60 Coursera Massive Open Online Courses (MOOCs), for a total of about 100,000 threads. 
 
-According to the [2019 Google Scholar Metrics](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=Llhi-G0S554J.2019), our paper is the 2nd most cited in Information Reuse and Integration for the July 2014 - July 2019 period. 
+
+
+
+According to the [2019 Google Scholar Metrics](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=Llhi-G0S554J.2019), this paper is the 2nd most cited in Information Reuse and Integration for the July 2014 - July 2019 period. 
 
 If you use the dataset for your work, please cite the paper. __BiBTeX entry:__
 ```
